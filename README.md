@@ -58,7 +58,6 @@ NFL-Prediction/
 │   ├── nfl_teams.csv
 │   └── spreadspoke_scores.csv
 ├── NFL Analysis.ipynb
-├── Machine_Learning_Final_Project.pdf
 └── README.md
 ````
 
